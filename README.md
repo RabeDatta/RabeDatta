@@ -13,6 +13,4 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](http://example.com/)**
 
-- 📫 How to reach me **robedutt@gmail.com**
-
 - ⚡ Fun fact **I play games and read historical books.**
