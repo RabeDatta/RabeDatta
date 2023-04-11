@@ -11,6 +11,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](http://example.com/)**.
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://rabedatta.dev/)**.
 
 - ⚡ Fun fact about me:  **I play games and read historical books.**
