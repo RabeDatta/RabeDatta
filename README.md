@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **[JAMSNext](https://www.jamsnext.com/)**.
 
-- 🌱 I’m currently learning **NextJs.**
+- 🌱 I’m currently learning **.Net.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
