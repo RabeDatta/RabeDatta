@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Chrome Weather Extension](https://github.com/RabeDatta)**.
+- 🔭 I’m currently working at **[JAMSNext](https://www.jamsnext.com/)**.
 
 - 🌱 I’m currently learning **NextJs.**
 
