@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **[JAMSNext](https://www.jamsnext.com/)**.
+- 🔭 I’m currently working at N/A
 
 - 🌱 I’m currently learning **.Net.**
 
