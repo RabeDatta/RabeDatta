@@ -21,8 +21,8 @@
     <tbody>
       <tr>
         <td align="center">
-          <a href="https://github.com/personalgpt/personalgpt" title="personalgpt/personalgpt">
-            <span> MyGPT </span>
+          <a href="https://github.com/RabeDatta/myCHATGPT" title="personalgpt/personalgpt">
+            <span> myCHATGPT </span>
           </a>
         </td>
         <td align="center"> AI Tools using ChatGPT </td>
