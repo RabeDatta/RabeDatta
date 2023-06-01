@@ -4,12 +4,5 @@
 <h3 align="center">I'm a Front-end developer and Javascript Enthusiast.</h3>
 
 ## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working at N/A
-
-- 🌱 I’m currently learning **.Net.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://rabedatta.dev/)**.
-
+ 
+- Work in progress...
