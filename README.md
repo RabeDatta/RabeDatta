@@ -3,7 +3,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rabe</h1>
 <h3 align="center">I'm a Software Developer and Javascript Enthusiast.</h3>
 
-<h2> 🙋‍♂️ About Me </h2>
+<details open>  
+   <summary> <h2> 🙋‍♂️ About Me </h2> </summary>
+   <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+ </details>
+
  
  <details open>
   <summary><h2>📚 Projects</h2></summary>
