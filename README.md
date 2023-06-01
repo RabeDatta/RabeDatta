@@ -11,7 +11,7 @@
  
  <details open>
   <summary><h2>📚 Projects</h2></summary>
-  <span>📈 In Progress | ⏸️ Paused | 💡 Planned</span>
+  <span>📈 In Progress | ⏸️ Paused | 💡 Planned | 🔒 Private Repo </span>
   <br/><br/>
   <table>
     <thead>
@@ -26,7 +26,7 @@
       <tr>
         <td align="center">
           <a href="https://github.com/RabeDatta/myCHATGPT" title="personalgpt/personalgpt">
-            <span> myCHATGPT </span>
+            <span> 🔒 myCHATGPT </span>
           </a>
         </td>
         <td align="center"> AI Tools using ChatGPT </td>
