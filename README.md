@@ -25,7 +25,7 @@
     <tbody>
       <tr>
         <td align="center">
-          <a href="https://github.com/RabeDatta/myCHATGPT" title="personalgpt/personalgpt">
+          <a href="https://github.com/RabeDatta/myCHATGPT" title="myCHATGPT">
             <span> 🔒 myCHATGPT </span>
           </a>
         </td>
