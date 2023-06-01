@@ -3,11 +3,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rabe</h1>
 <h3 align="center">I'm a Software Developer and Javascript Enthusiast.</h3>
 
-## 🙋‍♂️ About Me
+<h2> 🙋‍♂️ About Me </h2>
  
  <details open>
   <summary><h2>📚 Projects</h2></summary>
-  <span>🔥 In Progress | ⏸️ Paused | 💭 Planned</span>
+  <span>📈 In Progress | ⏸️ Paused | 💡 Planned</span>
   <br/><br/>
   <table>
     <thead>
@@ -26,7 +26,7 @@
           </a>
         </td>
         <td align="center"> AI Tools using ChatGPT </td>
-        <td align="center" title="In Progress">🔥</td>
+        <td align="center" title="In Progress"> 📈 </td>
         <td align="center">
           <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=412991" />
           <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
