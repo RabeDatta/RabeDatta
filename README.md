@@ -29,7 +29,7 @@
             <span> 🔒 myCHATGPT </span>
           </a>
         </td>
-        <td align="center"> AI Tools using ChatGPT </td>
+        <td align="center"> AI Tools using OpenAI </td>
         <td align="center" title="In Progress"> 📈 </td>
         <td align="center">
           <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=412991" />
