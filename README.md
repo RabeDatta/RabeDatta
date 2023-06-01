@@ -5,7 +5,7 @@
 
 <details open>  
    <summary> <h2> 🙋‍♂️ About Me </h2> </summary>
-   <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+   <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam </p>
  </details>
 
  
