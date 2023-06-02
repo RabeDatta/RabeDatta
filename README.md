@@ -11,7 +11,7 @@
  
  <details open>
   <summary><h2>📚 Projects</h2></summary>
-  <span>📈 In Progress | ⏸️ Paused | 💡 Planned | 🔒 Private Repo </span>
+  <span>📈 In Progress | ⏸️ Paused | 💡 Planned | ✅ Completed | 🔒 Private Repo </span>
   <br/><br/>
   <table>
     <thead>
