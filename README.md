@@ -42,6 +42,46 @@
   </table>
 </details>
 
+ <details open>
+  <summary><h2> 🔨 Challenges </h2></summary>
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Platform</th>
+        <th align="center">Description</th>
+        <th align="center">Completed </th>
+        <th align="center"> Link </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://www.frontendmentor.io/" title="frontendmentor">
+            <span> Frontend mentor </span>
+          </a>
+        </td>
+        <td align="center"> Frontend Mentor is an online platform that provides web development challenges and projects for front-end developers to practice and enhance their skills. </td>
+        <td align="center" title="total"> 0 </td>
+        <td align="center">
+         <a href="#"> View All 🔗 </a>
+        </td>
+      </tr>
+          <tr>
+        <td align="center">
+          <a href="https://www.frontendmentor.io/" title="frontendmentor">
+            <span> iCodeThis </span>
+          </a>
+        </td>
+        <td align="center"> iCodeThis is a coding platform that helps you learn to code by providing daily challenges, an in-browser IDE, and a supportive community. </td>
+        <td align="center" title="total"> 0 </td>
+        <td align="center">
+         <a href="#"> View All 🔗 </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
 <details open>
   <summary><h2>🏭 Open Source Contributions</h2></summary>
   <div align="left">
