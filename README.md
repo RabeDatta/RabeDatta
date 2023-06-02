@@ -60,7 +60,7 @@
             <span> Frontend mentor </span>
           </a>
         </td>
-        <td align="left"> FrontendMentor is a platform that provides real-world HTML, CSS, and JavaScript challenges, enabling practice and skill development in frontend technologies through the creation of real projects. </td>
+        <td align="left"> FrontendMentor provides real-world HTML, CSS, and JavaScript challenges, enabling practice and skill development in frontend technologies through the creation of real projects. </td>
         <td align="center" title="total"> 0 </td>
         <td align="center">
          <a href="#"> View All </a>
