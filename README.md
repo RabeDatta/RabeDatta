@@ -63,7 +63,7 @@
         <td align="center"> Frontend Mentor is an online platform that provides web development challenges and projects for front-end developers to practice and enhance their skills. </td>
         <td align="center" title="total"> 0 </td>
         <td align="center">
-         <a href="#"> View All 🔗 </a>
+         <a href="#"> View All </a>
         </td>
       </tr>
           <tr>
@@ -75,7 +75,7 @@
         <td align="center"> iCodeThis is a coding platform that helps you learn to code by providing daily challenges, an in-browser IDE, and a supportive community. </td>
         <td align="center" title="total"> 0 </td>
         <td align="center">
-         <a href="#"> View All 🔗 </a>
+         <a href="#"> View All </a>
         </td>
       </tr>
     </tbody>
