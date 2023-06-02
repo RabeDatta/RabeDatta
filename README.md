@@ -43,6 +43,14 @@
 </details>
 
 <details open>
+  <summary><h2>🏭 Open Source Contributions</h2></summary>
+  <div align="left">
+   
+  </div>
+</details>
+
+ 
+<details open>
 <summary><h2>💪🏼 Languages and tools </h2></summary>
  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -62,4 +70,9 @@
 </details>
  
 
+<details>
+  <summary><h2>📊 Profile Stats</h2></summary>
 
+ ![RabeDatta's Stats](https://github-readme-stats.vercel.app/api?username=RabeDatta&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+ ![RabeDatta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RabeDatta&theme=prussian&hide_border=true)
+</details>
