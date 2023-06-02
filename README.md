@@ -46,6 +46,8 @@
   <summary><h2>🏭 Open Source Contributions</h2></summary>
   <div align="left">
    
+  [![USWDS-generator](https://github-readme-stats.vercel.app/api/pin/?username=nyc-cto&repo=USWDS-generator&theme=prussian&hide_border=true)](https://github.com/nyc-cto/USWDS-generator)
+
   </div>
 </details>
 
