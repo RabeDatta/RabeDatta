@@ -72,7 +72,7 @@
             <span> iCodeThis </span>
           </a>
         </td>
-        <td align="left"> iCodeThis is a coding platform that helps you learn to code by providing daily challenges, an in-browser IDE, and a supportive community. </td>
+        <td align="left"> iCodeThis offers daily challenges to elevate your frontend skills in HTML and CSS, enhancing your UI design abilities and fostering creativity in crafting visually impressive web interfaces. </td>
         <td align="center" title="total"> 0 </td>
         <td align="center">
          <a href="#"> View All </a>
