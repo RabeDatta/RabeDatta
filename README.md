@@ -43,7 +43,7 @@
 </details>
 
  <details open>
-  <summary><h2> 🔨 Challenges </h2></summary>
+  <summary><h2> 🔨 Challenges (Work in progress...) </h2></summary>
   <table>
     <thead>
       <tr>
