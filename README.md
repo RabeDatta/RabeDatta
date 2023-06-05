@@ -42,7 +42,7 @@
   </table>
 </details>
 
- <details open>
+ <details>
   <summary><h2> 🔨 Challenges (Work in progress...) </h2></summary>
   <table>
     <thead>
