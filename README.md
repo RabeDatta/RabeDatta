@@ -5,7 +5,9 @@
 
 <details open>  
    <summary> <h2> 🙋‍♂️ About Me </h2> </summary>
-   <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam </p>
+   <ul> 
+    <li> I'm a Software Developer living in NYC. </li> 
+   </ul> 
  </details>
 
  
