@@ -6,7 +6,9 @@
 <details open>  
    <summary> <h2> 🙋‍♂️ About Me </h2> </summary>
    <ul> 
-    <li> I'm a Software Developer based in NYC. </li> 
+    <li> I'm a Software Developer based in Brooklyn, NY. </li> 
+    <li> Currently developing apps with NextJS, MongoDB, and Tailwind. </li> 
+    <li> My goals for 2023 are to learn PHP, and Laravel. </li> 
    </ul> 
  </details>
 
