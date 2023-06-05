@@ -6,7 +6,7 @@
 <details open>  
    <summary> <h2> 🙋‍♂️ About Me </h2> </summary>
    <ul> 
-    <li> I'm a Software Developer living in NYC. </li> 
+    <li> I'm a Software Developer based in NYC. </li> 
    </ul> 
  </details>
 
