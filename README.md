@@ -77,7 +77,7 @@
           </a>
         </td>
         <td align="left"> iCodeThis offers daily challenges to elevate your frontend skills in HTML and CSS, enhancing your UI design abilities and fostering creativity in crafting visually impressive web interfaces. </td>
-        <td align="center" title="total"> 0 </td>
+        <td align="center" title="total"> 2 </td>
         <td align="center">
          <a href="#"> View All </a>
         </td>
