@@ -116,9 +116,9 @@
 </details>
  
 
-<details>
+<!-- <details>
   <summary><h2>📊 Profile Stats</h2></summary>
 
  ![RabeDatta's Stats](https://github-readme-stats.vercel.app/api?username=RabeDatta&theme=prussian&show_icons=true&hide_border=true&count_private=true)
  ![RabeDatta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RabeDatta&theme=prussian&hide_border=true)
-</details>
+</details> -->
