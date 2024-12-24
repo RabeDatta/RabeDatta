@@ -44,20 +44,6 @@
   </table>
 </details>
 
- <details>
-  <summary><h2> 🔨 Challenges (Work in progress...) </h2></summary>
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Platform</th>
-        <th align="center">Description</th>
-        <th align="center">Completed </th>
-        <th align="center"> Link </th>
-      </tr>
-    </thead>
-  </table>
-</details>
-
 <details open>
   <summary><h2>🏭 Open Source Contributions</h2></summary>
   <div align="left">
