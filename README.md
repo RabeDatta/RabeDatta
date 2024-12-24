@@ -57,32 +57,6 @@
         <th align="center"> Link </th>
       </tr>
     </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <a href="https://www.frontendmentor.io/" title="frontendmentor">
-            <span> Frontend mentor </span>
-          </a>
-        </td>
-        <td align="left"> FrontendMentor provides real-world HTML, CSS, and JavaScript challenges, enabling practice and skill development in frontend technologies through the creation of real projects. </td>
-        <td align="center" title="total"> 0 </td>
-        <td align="center">
-         <a href="#"> View All </a>
-        </td>
-      </tr>
-          <tr>
-        <td align="center">
-          <a href="https://www.frontendmentor.io/" title="frontendmentor">
-            <span> iCodeThis </span>
-          </a>
-        </td>
-        <td align="left"> iCodeThis offers daily challenges to elevate your frontend skills in HTML and CSS, enhancing your UI design abilities and fostering creativity in crafting visually impressive web interfaces. </td>
-        <td align="center" title="total"> 2 </td>
-        <td align="center">
-         <a href="#"> View All </a>
-        </td>
-      </tr>
-    </tbody>
   </table>
 </details>
 
